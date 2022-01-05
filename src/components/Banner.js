@@ -7,8 +7,7 @@ function Banner(props) {
   return (
     <div className="Banner fadeInDown" style={{animationDelay: '0.4s'}}>
       <div className="wrapper">
-        <div className="alert-icon">
-          <AlertIcon size={16} />
+        
         </div>
         <div className="content">
           {t(
